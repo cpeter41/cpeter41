@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on an app that uses Blizzard's API to track in-game data on World of Warcraft. I'm always open to working on any project that suits me!
+I’m a software developer who strives for accuracy and prioritizes attention to detail. I started my career as an electrical engineer, but I’m now found in the software development space. My journey as a software developer has led me to pick up the following technologies: Node.js, Express, React, Redux, SQL, and more.
+
+My proficiencies with React and Redux allow me to create enjoyable frontend user experiences, and my skills with Node.js and Express lend themselves to robust backends for said experiences. My goal is to always keep up with new technologies and development trends so that I can continue to produce sleek and reliable applications. I love working on solutions for meaningful reasons, so I am always keen to lend my skills to projects that matter to me!
 
 
 ## 🌐 Socials:
